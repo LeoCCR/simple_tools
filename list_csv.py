@@ -1,8 +1,10 @@
 def list_csv(path):
-    """Return a list of .csv file path from .csv file path or folder that contain many .csv file.
+    """Return a list of .csv file path from .csv file path or
+       folder that contain many .csv file.
 
     Args:
-        path ([string]): .csv file path or folder path that contain many .csv file.
+        path ([string]): .csv file path or folder path
+                         that contain many .csv file.
 
     Returns:
         [list]: A python list that contain .csv file.
